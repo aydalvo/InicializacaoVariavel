@@ -1,0 +1,2 @@
+# InicializacaoVariavel
+Inicialização de variável.
